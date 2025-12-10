@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Link } from 'react-router-dom';
+import './css/Banner.css';
 
 // Definir tipos TypeScript
 interface Profile {
