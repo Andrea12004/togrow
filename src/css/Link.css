@@ -1,0 +1,57 @@
+.link-register-login {
+  color: var(--Gris-3, #686868);
+  /* Texto Mínimo */
+  font-family: Montserrat;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 13px; /* 100% */
+  text-decoration: none;
+}
+
+.link-register-login:hover {
+  color: var(--Gris-3, #134E9D);
+}
+
+.div-link-reset-login{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15%;
+  
+}
+
+.div-register-link{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2%;
+  width: 100%;
+}
+
+.label-register-link{
+  color: var(--Gris-3, #686868);
+  text-align: center;
+  /* Texto Mínimo */
+  font-family: Montserrat;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 13px; /* 100% */
+}
+
+.register-link {
+  color: var(--Azul-Secundario, #134E9D);
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 64px; /* 492.308% */
+  text-decoration: none;
+}
+
+.register-link:hover {
+  color: var(--Naranja, #F26A2F );
+}
